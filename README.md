@@ -18,4 +18,3 @@
 
 [Interview_Question_for_Beginner](https://github.com/HayeonKimm/Interview_Question_for_Beginner)
 <br><br><br><br>
-가입문의 : 김하연 chocokakao@naver.com
